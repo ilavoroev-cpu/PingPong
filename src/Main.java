@@ -292,3 +292,7 @@ public class Main extends Application {
         });
     }
 }
+
+class Test{
+
+}
